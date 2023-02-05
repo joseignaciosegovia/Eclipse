@@ -23,6 +23,10 @@ public class Cuenta {
         setSaldo(sal);
         setTipoInteres(tipo);
     }
+    
+    public void metodoPrueba() {
+    	//Método añadido desde Eclipse
+    }
 
     public double estado()
     {
