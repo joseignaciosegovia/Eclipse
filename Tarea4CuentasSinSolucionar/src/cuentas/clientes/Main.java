@@ -4,6 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
         operativa_cuenta(2);
+        
+        //Añadido desde Eclipse
+        System.out.println("Fin del programa");
     }
 
 	private static void operativa_cuenta(float cantidad) {
