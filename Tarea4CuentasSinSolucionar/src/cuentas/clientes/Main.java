@@ -14,7 +14,7 @@ public class Main {
         
         System.out.println("El saldo actual es:"+ cuenta1.estado() );
         
-        System.out.println("Texto añadido desde Eclipse");
+        System.out.println("Texto añadido desde Eclipse.");
 
         try {
             cuenta1.retirar(2300);
